@@ -1,0 +1,44 @@
+id,department_id,title,deleted_at,responsible_user_id,staff_only,topic_type,topic_group_id,creator_user_id,created_at,updated_at,is_active,is_sequential_distribution,description,default_incident_priority,default_incident_type_id,web_form_flow_chart_id
+1,9,Elektrik Kesintisi,,0,0,all,,,1745841010,1745841010,1,0,Tempore dolor id temporibus quasi facere. Temporibus vel earum nulla eos dolor. Vitae deleniti cumque ea molestiae maiores.,critical,,
+2,5,Su Kesintisi,,0,1,citizen,,,1745841010,1745841010,1,1,"Assumenda quasi distinctio quod sit. Veritatis adipisci nam veritatis veniam eius.
+Aut perspiciatis consequatur saepe. Nostrum fugit delectus nobis deleniti quisquam.",critical,,
+3,32,Asfalt Yol Bozuklugu,,0,0,citizen,,,1745841010,1745841010,1,1,"Quod animi quas. Nam explicabo voluptates accusamus.
+Eius saepe neque tempora quidem quae. Dolor distinctio debitis nulla.",high,,
+4,25,Sokak Lambasi Arizasi,,0,0,citizen,,,1745841010,1745841010,1,1,"Alias delectus a libero. Natus harum dicta quam dolorem consequatur necessitatibus.
+Eos officia doloremque ipsam. Maxime minus sapiente optio.
+Vero recusandae quo optio. Totam itaque dolorum nisi.",low,,
+5,5,Cop Toplama Gecikmesi,,0,1,citizen,,,1745841010,1745841010,1,0,"Ad necessitatibus sint quia. Laborum commodi voluptatibus ea consequatur possimus necessitatibus.
+Velit consequuntur hic officia quisquam. Quas facere aut vitae at sed commodi quo.",high,,
+6,5,Sinekle Mucadele,,0,1,citizen,,,1745841010,1745841010,1,0,Mollitia consequatur ab eius eaque libero. Quo non reiciendis sed totam veritatis iste alias. Praesentium error eligendi pariatur ratione eius provident.,normal,,
+7,5,Sahil Temizligi,,0,0,citizen,,,1745841010,1745841010,1,1,Delectus tenetur veniam qui occaecati. Veritatis dolore quis est eaque expedita optio doloremque. Corporis cumque totam dignissimos ut natus.,normal,,
+8,31,Toplu Tasima Sikayeti,,0,1,citizen,,,1745841010,1745841010,1,0,Magnam expedita libero reprehenderit suscipit neque autem dolor. Architecto eum unde.,critical,,
+9,35,Hayvan Barinagi Sikayeti,,0,0,all,,,1745841010,1745841010,1,1,Porro atque incidunt incidunt cumque error culpa. Fugit ipsa porro quod nulla fuga quas.,low,,
+10,5,Ilaclama Talebi,,0,1,all,,,1745841010,1745841010,1,0,"Alias dignissimos eaque. Sunt earum maiores explicabo nemo ratione.
+Omnis officia saepe eius modi delectus. Molestiae asperiores eligendi non optio deleniti rerum. Veritatis quod ad magnam.",normal,,
+11,10,Spor Tesisi Sikayeti,,0,0,citizen,,,1745841010,1745841010,1,1,"Deserunt praesentium quibusdam excepturi. Totam quasi non.
+Debitis neque fugit culpa itaque. Assumenda quo eius nemo quis.",low,,
+12,31,Belediye Otobusu Saat Sikayeti,,0,1,citizen,,,1745841010,1745841010,1,1,"Unde vel cum consequuntur. Beatae quidem nostrum sunt.
+Laudantium laboriosam porro dolor. Maxime ullam repudiandae deleniti. Tenetur quia quidem sed.",normal,,
+13,28,Ogrenci Burs Basvurusu,,0,1,citizen,,,1745841010,1745841010,1,1,Iure aperiam inventore voluptatum voluptatibus. Facere blanditiis libero vitae voluptatum aperiam quos. Quasi dolorum quas ipsa quas iure sapiente qui.,low,,
+14,5,Denize Atik Birakilmasi Sikayeti,,0,0,citizen,,,1745841010,1745841010,1,0,Magnam suscipit expedita iste provident neque. Voluptate enim quibusdam reiciendis amet deleniti possimus.,normal,,
+15,4,Yazici Arizasi,,0,0,staff,,,1745841010,1745841010,1,0,"Enim facere porro sapiente a. Quas iste possimus ullam.
+Occaecati labore nobis iusto. Officia odit aspernatur facere omnis eius ea quasi. Reiciendis similique harum.",low,,
+16,4,Internet Arizasi,,0,1,staff,,,1745841010,1745841010,1,1,Ipsum error accusamus reprehenderit repudiandae aliquid. Esse eos ipsam illum eius ut non velit. Eius dicta ullam illo incidunt.,high,,
+17,4,Bilgisayar Arizasi,,0,0,staff,,,1745841010,1745841010,1,1,"Eaque numquam dolor est laboriosam delectus. Provident illum voluptates unde odio.
+Laboriosam ad quae doloribus. Ducimus consequuntur architecto rerum ducimus voluptatem.",high,,
+18,13,Insaat Talebi,,0,0,all,,,1745841010,1745841010,1,0,Nisi excepturi inventore. Dolor doloribus officia minus sapiente facere velit. Voluptates corrupti recusandae ipsa ipsa est.,high,,
+19,20,Bakim ve Onarim Talebi,,0,0,staff,,,1745841010,1745841010,1,1,Recusandae animi sequi itaque in eius incidunt. Dolores odio molestiae odit ipsum error consectetur. Distinctio nemo illum.,low,,
+20,5,Genel Temizlik Talebi,,0,1,citizen,,,1745841010,1745841010,1,0,Quam dolorem veritatis at ullam ipsam. Fugiat illum magni. Maxime quidem placeat mollitia.,normal,,
+21,34,Guvenlik Talebi,,0,1,info,,,1745841010,1745841010,1,1,"Eaque nobis inventore placeat. Est perferendis voluptatum.
+Harum laboriosam quasi. Hic id sed. Sit neque quidem tempore nostrum nesciunt sunt nisi.",high,,
+22,4,Elektronik Ekipman Talebi,,0,0,all,,,1745841010,1745841010,1,1,Iste laboriosam consectetur incidunt. Consectetur iure fuga quasi beatae at eum voluptate. Delectus neque id et eum in.,high,,
+23,32,Yol Duzenleme Talebi,,0,1,citizen,,,1745841010,1745841010,1,0,Assumenda eum qui earum cupiditate autem. Ullam hic totam totam debitis. Nisi molestias veritatis sit blanditiis recusandae blanditiis.,critical,,
+24,25,Park Alani Talebi,,0,1,citizen,,,1745841010,1745841010,1,0,Vel rerum ex nam provident fuga saepe. Quo itaque accusamus cupiditate ratione.,low,,
+25,15,Agac Ve Bitki Yangini Talebi,,0,0,citizen,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,critical,,
+26,23,Nufus Cuzdani Kaybi Talebi,,0,0,citizen,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,high,,
+27,1,Belediye ici yazisma ve toplanti,,0,1,staff,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,normal,,
+28,2,Deprem sonrasi hasar tespiti,,0,0,all,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,high,,
+29,8,Enstruman Kursu,,0,0,citizen,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,low,,
+30,11,yasal izinlerin alinmasi,,0,1,staff,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,critical,,
+31,14,belediye calisanlari icin yeni bir egitim programi hazirlanmasi,,0,1,staff,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,low,,
+32,32,is yerlerinin denetimi,,0,1,staff,,,1745841010,1745841010,1,1,Magnam adipisci consequatur similique. Sint recusandae consequatur.,high,,
